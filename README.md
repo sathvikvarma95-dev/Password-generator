@@ -93,7 +93,7 @@ A7@kL9!pQ2
 
 ## 👨‍💻 Author
 
-<b>Your Name</b> — Built with ❤️ in Python
+<b>Sathvik Varma</b> — Built with ❤️ in Python
 
 ---
 
