@@ -85,9 +85,7 @@ A7@kL9!pQ2
 
 ---
 
-<marquee behavior="scroll" direction="left">
-🚀 Built for Learning • Made with Python • Beginner Friendly Project 🚀
-</marquee>
+
 
 ---
 
